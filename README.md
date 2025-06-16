@@ -26,7 +26,7 @@ This repo is my personal coding notebook and a growing archive of:
 
 ## 🎯 Goals
 
-- ✅ Solve 500+ problems across all difficulty levels
+- ✅ Solve 100+ problems across all difficulty levels
 - 🔍 Explore a wide range of topics: arrays, trees, dynamic programming, graphs, etc.
 - 📝 Document every approach with clarity and depth
 - ⏱️ Optimize for both readability and performance
