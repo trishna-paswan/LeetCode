@@ -1,4 +1,4 @@
-# 📘 LeetCode Solutions by Trishna Kumari Paswan
+# 🚀 LeetCode Solutions – Trishna Kumari Paswan
 
 Welcome to my LeetCode repository! 🌟 This repo contains all the coding problems I have attempted from [LeetCode](https://leetcode.com/). It includes my solutions in various programming languages like C++, Python, and Java, along with problem descriptions, intuition, and complexity analysis (when applicable).
 
