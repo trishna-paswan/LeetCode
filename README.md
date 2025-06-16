@@ -7,14 +7,12 @@ Welcome to my LeetCode repository! 🌟 This repo contains all the coding proble
 ## 📌 Problem Categories
 
 ✅ Easy
-
 ⚙️ Medium
-
 🔥 Hard
-
 📆 Daily Challenges
-
 🏢 Company-specific (Google, Amazon, etc.)
+
+---
 
 ## 🧠 Why This Repository?
 
